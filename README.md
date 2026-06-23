@@ -63,7 +63,6 @@ The dataset contains business-related information such as sales, customers, prod
 ### Development Environment
 
 * Jupyter Notebook
-* VS Code
 
 ---
 
